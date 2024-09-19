@@ -6,7 +6,7 @@ Sou aluno do componente curricular de pensamento pela rede estadual de educaçã
 
 Utilizo em aula a plataforma [alura]https://www.alura.com.br
 
-### Você podeentrar em contato comigo
+### Você pode entrar em contato comigo
 
 john.sousa@escola.pr.gov.br
 
